@@ -17,10 +17,15 @@ Predict whether a breast tumor is **malignant (0)** or **benign (1)** based on 3
 
 ## Repository Structure
 MinorProject1_AIClub_KIET/
+
 ├── data/                         # Dataset (CSV)
+
 ├── model/                        # Trained models (.pkl)
+
 ├── notebook/                     # Jupyter Notebook (.ipynb)
+
 ├── results/                      # EDA plots and evaluation graphs
+
 └── README.md
 
 ## Methodology
